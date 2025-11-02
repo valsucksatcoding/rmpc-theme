@@ -2,7 +2,7 @@
 #![enable(unwrap_newtypes)]
 #![enable(unwrap_variant_newtypes)]
 (
-    address: "/home/valen/.config/mpd/socket",
+    address: "insert yout mpd adress here",
     password: None,
     theme:"custom",
     cache_dir: "~/.cache/rmpc",
